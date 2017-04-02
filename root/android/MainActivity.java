@@ -62,6 +62,7 @@ import com.macmoim.pang.login.SocialProfile;
  * TODO
  */
 public class MainActivity extends AppCompatActivity {
+// test working
     private final String TAG = "MainActivity";
     private DrawerLayout mDrawerLayout;
     Auth auth;
