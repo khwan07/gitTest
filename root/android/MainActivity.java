@@ -16,6 +16,8 @@
 
 package com.macmoim.pang;
 
+//hwankim test
+
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
