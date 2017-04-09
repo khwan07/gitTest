@@ -62,6 +62,8 @@ import com.macmoim.pang.login.SocialProfile;
 
 /**
  * TODO
+
+	* I dont know what to do T.T
  */
 public class MainActivity extends AppCompatActivity {
 // test working
