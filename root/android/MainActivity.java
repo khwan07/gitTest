@@ -17,6 +17,7 @@
 package com.macmoim.pang;
 
 //hwankim test
+// 머지용 테스트
 
 import android.annotation.TargetApi;
 import android.app.AlertDialog;
